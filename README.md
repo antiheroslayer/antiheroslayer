@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ajithesh, MS-CS Student! - I post my work here.
+I'm Ajithesh, MS-CS Student! - A Student and a Pet Lover!
 <!--
 **antiheroslayer/antiheroslayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-A Game!
+1. A super awesome Game! and few Research Projects.
+2. Individual Study on AI
 
-- 🌱 I’m currently learning ...
 
-Individual Study
+
 
 
 

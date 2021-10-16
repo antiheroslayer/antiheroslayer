@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ajithesh, MS-CS Student! - A Student and a Pet Lover!
+I'm Ajithesh, MS-CS Graduate! - A Gamer and a Pet Lover!
 <!--
 **antiheroslayer/antiheroslayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
